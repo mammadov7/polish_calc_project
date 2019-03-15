@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
+
 project(pol_cal)
 
 include_directories("polish_calc_src")
